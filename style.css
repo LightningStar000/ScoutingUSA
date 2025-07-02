@@ -1,0 +1,40 @@
+
+
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    height:125px;
+  }
+
+
+  li {
+    float:right;
+    
+  }
+
+  li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 45px 36px;
+   text-decoration: none;
+   font-size:25px;
+  }
+
+  li a:hover {
+   background-color: #a6a2a2;
+   color:black;
+  }
+
+  li a:active{
+    background-color: #a6a2a2;
+    color: black;
+  }
+
+
+
